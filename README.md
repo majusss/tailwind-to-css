@@ -25,4 +25,4 @@
 }
 ```
 
-### <span style="color:red">the repo was created in the agony of writing a page for homework from my teacher</span>
+### 🔴🔴the repo was created in the agony of writing a page for homework from my teacher🔴🔴

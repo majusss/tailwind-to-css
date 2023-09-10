@@ -25,4 +25,4 @@
 }
 ```
 
-### 🔴🔴the repo was created in the agony of writing a page for homework from my teacher🔴🔴
+### 🔴the repo was created in the agony of writing a page for homework from my teacher🔴
